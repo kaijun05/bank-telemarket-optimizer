@@ -66,7 +66,7 @@ The project yielded the following key insights:
     <strong>Gradient Boosting</strong> achieved the highest F1-Score (63.03% to 63.69%) overall, showing the best balance between precision and recall.
   </li>
   <li>
-    <strong>Random Forest</strong>strong> excelled in Specificity (94.72% to 95.91%), making it ideal for minimizing false positives.
+    <strong>Random Forest</strong> excelled in Specificity (94.72% to 95.91%), making it ideal for minimizing false positives.
   </li>
   <li>
     <strong>Logistic Regression</strong> demonstrated high sensitivity (91.49% to 91.81%), ensuring fewer missed opportunities.
