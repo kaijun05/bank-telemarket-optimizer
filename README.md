@@ -6,6 +6,8 @@ CDS6314 Data Mining (Trimester October/November 2024 - Term 2430)
 <p>
 This project focuses on the application of data mining techniques to optimize telemarketing strategies in the banking sector. 
 The primary objective is to improve the success rates of bank telemarketing campaigns by analyzing customer data and predicting subscription outcomes. 
+<br></br>
+View the Notebook <a href="https://github.com/kaijun05/bank-telemarket-optimizer/blob/3cc7db5bf93b8bc6651a4db99e6123ebf2008a36/main.ipynb">HERE</a>.
 </p>
 </div>
 
